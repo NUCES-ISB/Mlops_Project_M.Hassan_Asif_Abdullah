@@ -1,0 +1,4 @@
+outs:
+- md5: af0c583c28547d76cd2db5f5c67de7e8
+  size: 18496
+  path: diabetes.tab.txt
